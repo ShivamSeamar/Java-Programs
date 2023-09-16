@@ -7,7 +7,8 @@
 6. nextBoolean();
 7. nextshort();
 8. nextLong();
-9. nextByte();*/
+9. nextByte();
+10 .next().charAt(0)*/
 
 import java.util.*; // import the java inbild class until and use scanner class with any object such as sc or s or etc 
 public class input {
